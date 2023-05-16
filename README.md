@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 -->
 Some Facts about me and my working style:
 
+- 🔭 Proficient in front-end and back-end development, delivering end-to-end solutions using modern web technologies and frameworks.
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on full stack development
+- 📫 How to reach me: talhasiddiqui5170@hotmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Love to play Crystal Maiden in Dota 2 
+
 **Web Development Specialist:** Experienced in creating scalable, secure, and high-performance web applications using JavaScript, Python, Ruby, and frameworks like React, Angular, Node.js, and Django.
 
 **Intuitive User Experience:** Skilled in translating design mockups into responsive interfaces, ensuring seamless and user-friendly web experiences across devices.
