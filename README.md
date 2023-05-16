@@ -29,4 +29,4 @@ Some Facts about me and my working style:
 
 **Continuous Learner:** Committed to staying updated with industry trends, embracing new technologies, and delivering cutting-edge solutions.
 
-****Effective Communicator: Collaborative team player with strong communication skills, bridging the gap between technical and non-technical stakeholders.
+**Effective Communicator:** Collaborative team player with strong communication skills, bridging the gap between technical and non-technical stakeholders.
